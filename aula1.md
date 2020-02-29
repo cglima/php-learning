@@ -23,7 +23,7 @@ Rasmus renomeu seu projeto de ***Personal Home Page Tools*** para ***Personal Ho
 
 **P**ersonal
 **H**ome
-**P**page
+**P**age
 **F**orms
 **I**nterpreter
 
@@ -61,16 +61,7 @@ Várias implementações foram feitas entre as versões 5 e 6, contudo, a versã
 * Criação do **Zend Framework** por Zeev e And. 
     * Manutenção do core do PHP
 
-# Links Interessantes
+# Links 
 
-* [Acesso a todoas a versões do php](https://museum.php.net/)
-
-
-
-*O php não declara variável, ele cria e inicializa a variável direto.*
-
-o Comando "echo" é para **saída de texto**.
-
-```php
-echo "Olá Mundo!";
-```
+* [Acesso a todas as versões do php](https://museum.php.net/)
+  
